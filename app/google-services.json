@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053746017052",
+    "project_id": "obslugawydatkow",
+    "storage_bucket": "obslugawydatkow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053746017052:android:5b76a28b7290d5cd4800d9",
+        "android_client_info": {
+          "package_name": "com.example.menedzerwydatkow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053746017052-7oh4o38ugh42mv50ol1h39h3efebsli5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.menedzerwydatkow",
+            "certificate_hash": "6e3378f3a15140df4be1cd063c2a37909d1ec034"
+          }
+        },
+        {
+          "client_id": "1053746017052-1e0gakt52peuvf7sv50rinoun4se3dp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDaewURJZwgo1in9478aphapM8s10XoNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053746017052-1e0gakt52peuvf7sv50rinoun4se3dp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
